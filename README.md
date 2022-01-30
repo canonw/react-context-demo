@@ -1,2 +1,2 @@
-# react-context-demo
-React Context Best Architecture Practice
+# React Context Best Architecture Practice
+
